@@ -16,11 +16,20 @@ body {
 }
 
 .image img {
-    transition: all 0.5s
+    transition: all 0.5s;
 }
 
 .card:hover .image img {
     transform: scale(1.5)
+}
+
+.bitmoji {
+    margin-top: 20px;
+    transform: scale(1.25);
+}
+
+.bitmoji:hover {
+    transform: scale(1.75);
 }
 
 .btn {
