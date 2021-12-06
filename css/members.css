@@ -66,13 +66,13 @@ body {
 /* Member 2 */
 .m2 {
     color: #fff;
-    background-color: teal;
+    background-color: Gray;
     border-color: #212529;
 }
 
 .m2:hover {
     color: #fff;
-    background-color: teal;
+    background-color: Gray;
     border-color: #212529;
 }
 
