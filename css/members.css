@@ -83,13 +83,13 @@ body {
 /* Member 4 */
 .m4 {
     color: #fff;
-    background-color: teal;
+    background-color: darkslateblue;
     border-color: #212529;
 }
 
 .m4:hover {
     color: #fff;
-    background-color: teal;
+    background-color: darkslateblue;
     border-color: #212529;
 }
 
