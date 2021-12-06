@@ -1,2 +1,2 @@
-# team_website
+# Team Website
  Team website for CS350
