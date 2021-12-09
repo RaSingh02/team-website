@@ -9,6 +9,10 @@
     color: teal
 }
 
+.navbar-dark .navbar-brand:hover {
+    color: turquoise
+}
+
 .navbar-dark .navbar-nav .nav-link.active {
     color: teal;
 }
