@@ -5,10 +5,14 @@
     font-family: 'Nunito', sans-serif;
 }
 
+.navbar-dark .navbar-brand {
+    color: teal
+}
+
 .navbar-dark .navbar-nav .nav-link.active {
-    color: white;
+    color: teal;
 }
 
 .navbar-dark:hover .navbar-nav:hover .nav-link:hover {
-    color: blue;
+    color: turquoise;
 }
