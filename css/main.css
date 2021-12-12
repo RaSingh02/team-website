@@ -29,6 +29,11 @@ body {
     color: turquoise;
 }
 
+.list-group-item:focus {
+    background-color: transparent;
+    color: white;
+}
+
 .list-group-item-action {
     width: 50%;
 }
